@@ -4,4 +4,4 @@ module.exports = {
   ],
   ignore:['./mock']
 
-}
+};

@@ -3,7 +3,7 @@ module.exports = {
   publicPath: './',
   outputDir: 'dist',
   lintOnSave: true,
-  chainWebpack: () => {  },
+  chainWebpack: () => { },
   configureWebpack: () => { },
   productionSourceMap: true,
 
@@ -27,5 +27,4 @@ module.exports = {
   pluginOptions: {
   
   }
-}
-
+};
